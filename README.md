@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=davidsanapang25&color=blue&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
