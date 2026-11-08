@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**davidsanapang25/davidsanapang25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;Halo%2C+saya+David;Mahasiswa+Sistem+Informasi;Suka+bikin+web+dan+aplikasi+mobile" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+<img src="https://komarev.com/ghpvc/?username=davidsanapang25&color=blue&label=PROFILE+VIEWS" alt="Profile views" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## 👋 Tentang Saya
+- 🎓 Mahasiswa Sistem Informasi semester 4
+- 🔭 Sedang mengerjakan [isi proyekmu]
+- 🌱 Sedang belajar [isi topik, misalnya UI/UX atau Kotlin]
+- 📫 [isi email atau LinkedIn]
+
+## 🛠️ Bahasa & Teknologi
+<img src="https://skillicons.dev/icons?i=html,css,js,kotlin,git,github,figma" />
